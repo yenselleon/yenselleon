@@ -10,4 +10,4 @@ He trabajado con multiples tecnologías, las cuales son:
 -   NodeJS - MongoDB - Express - JWT
 -   Html - Css - SasS
 -   JavaScript (Vanilla)
--   Bootstrap - ChakraUI - Figma - MaterialUI - Illustrator - Photoshop 
+-   Bootstrap - ChakraUI - Figma - MaterialUI - Illustrator - Photoshop - Ant Design 
